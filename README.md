@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Yan
+- 👋 Hi, I’m Yan
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 12345678912345678912345678900/12345678912345678912345678900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
